@@ -1,0 +1,14 @@
+----------------------
+Download Ollama
+- Pull llama3
+- Pull Mistral
+- Pull nomic-embed-text
+-----------------------
+
+---------------------------------
+Install dependencies Dependencies 
+---------------------------------
+langchain
+langchain_community
+chromadb
+streamlit
